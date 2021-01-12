@@ -1,0 +1,412 @@
+{
+    "data": [
+        {
+            "State": "Alaska",
+            "TotalArea": 665384,
+            "LandArea": 570641,
+            "WaterArea": 94743,
+            "Density": "1.2863",
+            "Pop": 734002
+        },
+        {
+            "State": "Texas",
+            "TotalArea": 268596,
+            "LandArea": 261232,
+            "WaterArea": 7365,
+            "Density": "112.8204",
+            "Pop": 29472295
+        },
+        {
+            "State": "California",
+            "TotalArea": 163696,
+            "LandArea": 155779,
+            "WaterArea": 7916,
+            "Density": "256.3727",
+            "Pop": 39937489
+        },
+        {
+            "State": "Montana",
+            "TotalArea": 147040,
+            "LandArea": 145546,
+            "WaterArea": 1494,
+            "Density": "7.4668",
+            "Pop": 1086759
+        },
+        {
+            "State": "New Mexico",
+            "TotalArea": 121590,
+            "LandArea": 121298,
+            "WaterArea": 292,
+            "Density": "17.2850",
+            "Pop": 2096640
+        },
+        {
+            "State": "Arizona",
+            "TotalArea": 113990,
+            "LandArea": 113594,
+            "WaterArea": 396,
+            "Density": "64.9550",
+            "Pop": 7378494
+        },
+        {
+            "State": "Nevada",
+            "TotalArea": 110572,
+            "LandArea": 109781,
+            "WaterArea": 791,
+            "Density": "28.5993",
+            "Pop": 3139658
+        },
+        {
+            "State": "Colorado",
+            "TotalArea": 104094,
+            "LandArea": 103642,
+            "WaterArea": 452,
+            "Density": "56.4011",
+            "Pop": 5845526
+        },
+        {
+            "State": "Oregon",
+            "TotalArea": 98379,
+            "LandArea": 95988,
+            "WaterArea": 2391,
+            "Density": "44.8086",
+            "Pop": 4301089
+        },
+        {
+            "State": "Wyoming",
+            "TotalArea": 97813,
+            "LandArea": 97093,
+            "WaterArea": 720,
+            "Density": "5.8400",
+            "Pop": 567025
+        },
+        {
+            "State": "Michigan",
+            "TotalArea": 96714,
+            "LandArea": 56539,
+            "WaterArea": 40175,
+            "Density": "177.6655",
+            "Pop": 10045029
+        },
+        {
+            "State": "Minnesota",
+            "TotalArea": 86936,
+            "LandArea": 79627,
+            "WaterArea": 7309,
+            "Density": "71.5922",
+            "Pop": 5700671
+        },
+        {
+            "State": "Utah",
+            "TotalArea": 84897,
+            "LandArea": 82170,
+            "WaterArea": 2727,
+            "Density": "39.9430",
+            "Pop": 3282115
+        },
+        {
+            "State": "Idaho",
+            "TotalArea": 83569,
+            "LandArea": 82643,
+            "WaterArea": 926,
+            "Density": "22.0969",
+            "Pop": 1826156
+        },
+        {
+            "State": "Kansas",
+            "TotalArea": 82278,
+            "LandArea": 81759,
+            "WaterArea": 520,
+            "Density": "35.5968",
+            "Pop": 2910357
+        },
+        {
+            "State": "Nebraska",
+            "TotalArea": 77348,
+            "LandArea": 76824,
+            "WaterArea": 524,
+            "Density": "25.4161",
+            "Pop": 1952570
+        },
+        {
+            "State": "South Dakota",
+            "TotalArea": 77116,
+            "LandArea": 75811,
+            "WaterArea": 1305,
+            "Density": "11.9116",
+            "Pop": 903027
+        },
+        {
+            "State": "Washington",
+            "TotalArea": 71298,
+            "LandArea": 66456,
+            "WaterArea": 4842,
+            "Density": "117.3272",
+            "Pop": 7797095
+        },
+        {
+            "State": "North Dakota",
+            "TotalArea": 70698,
+            "LandArea": 69001,
+            "WaterArea": 1698,
+            "Density": "11.0393",
+            "Pop": 761723
+        },
+        {
+            "State": "Oklahoma",
+            "TotalArea": 69899,
+            "LandArea": 68595,
+            "WaterArea": 1304,
+            "Density": "57.6547",
+            "Pop": 3954821
+        },
+        {
+            "State": "Missouri",
+            "TotalArea": 69707,
+            "LandArea": 68742,
+            "WaterArea": 965,
+            "Density": "89.7453",
+            "Pop": 6169270
+        },
+        {
+            "State": "Florida",
+            "TotalArea": 65758,
+            "LandArea": 53625,
+            "WaterArea": 12133,
+            "Density": "410.1256",
+            "Pop": 21992985
+        },
+        {
+            "State": "Wisconsin",
+            "TotalArea": 65496,
+            "LandArea": 54158,
+            "WaterArea": 11339,
+            "Density": "108.0497",
+            "Pop": 5851754
+        },
+        {
+            "State": "Georgia",
+            "TotalArea": 59425,
+            "LandArea": 57513,
+            "WaterArea": 1912,
+            "Density": "186.6719",
+            "Pop": 10736059
+        },
+        {
+            "State": "Illinois",
+            "TotalArea": 57914,
+            "LandArea": 55519,
+            "WaterArea": 2395,
+            "Density": "228.0243",
+            "Pop": 12659682
+        },
+        {
+            "State": "Iowa",
+            "TotalArea": 56273,
+            "LandArea": 55857,
+            "WaterArea": 416,
+            "Density": "56.9284",
+            "Pop": 3179849
+        },
+        {
+            "State": "New York",
+            "TotalArea": 54555,
+            "LandArea": 47126,
+            "WaterArea": 7429,
+            "Density": "412.5211",
+            "Pop": 19440469
+        },
+        {
+            "State": "North Carolina",
+            "TotalArea": 53819,
+            "LandArea": 48618,
+            "WaterArea": 5201,
+            "Density": "218.2702",
+            "Pop": 10611862
+        },
+        {
+            "State": "Arkansas",
+            "TotalArea": 53179,
+            "LandArea": 52035,
+            "WaterArea": 1143,
+            "Density": "58.4030",
+            "Pop": 3038999
+        },
+        {
+            "State": "Alabama",
+            "TotalArea": 52420,
+            "LandArea": 50645,
+            "WaterArea": 1775,
+            "Density": "96.9221",
+            "Pop": 4908621
+        },
+        {
+            "State": "Louisiana",
+            "TotalArea": 52378,
+            "LandArea": 43204,
+            "WaterArea": 9174,
+            "Density": "107.5175",
+            "Pop": 4645184
+        },
+        {
+            "State": "Mississippi",
+            "TotalArea": 48432,
+            "LandArea": 46923,
+            "WaterArea": 1509,
+            "Density": "63.7056",
+            "Pop": 2989260
+        },
+        {
+            "State": "Pennsylvania",
+            "TotalArea": 46054,
+            "LandArea": 44743,
+            "WaterArea": 1312,
+            "Density": "286.5449",
+            "Pop": 12820878
+        },
+        {
+            "State": "Ohio",
+            "TotalArea": 44826,
+            "LandArea": 40861,
+            "WaterArea": 3965,
+            "Density": "287.5038",
+            "Pop": 11747694
+        },
+        {
+            "State": "Virginia",
+            "TotalArea": 42775,
+            "LandArea": 39490,
+            "WaterArea": 3285,
+            "Density": "218.4403",
+            "Pop": 8626207
+        },
+        {
+            "State": "Tennessee",
+            "TotalArea": 42144,
+            "LandArea": 41235,
+            "WaterArea": 909,
+            "Density": "167.2748",
+            "Pop": 6897576
+        },
+        {
+            "State": "Kentucky",
+            "TotalArea": 40408,
+            "LandArea": 39486,
+            "WaterArea": 921,
+            "Density": "113.9566",
+            "Pop": 4499692
+        },
+        {
+            "State": "Indiana",
+            "TotalArea": 36420,
+            "LandArea": 35826,
+            "WaterArea": 593,
+            "Density": "188.2810",
+            "Pop": 6745354
+        },
+        {
+            "State": "Maine",
+            "TotalArea": 35380,
+            "LandArea": 30843,
+            "WaterArea": 4537,
+            "Density": "43.6336",
+            "Pop": 1345790
+        },
+        {
+            "State": "South Carolina",
+            "TotalArea": 32020,
+            "LandArea": 30061,
+            "WaterArea": 1960,
+            "Density": "173.3174",
+            "Pop": 5210095
+        },
+        {
+            "State": "West Virginia",
+            "TotalArea": 24230,
+            "LandArea": 24038,
+            "WaterArea": 192,
+            "Density": "73.9691",
+            "Pop": 1778070
+        },
+        {
+            "State": "Maryland",
+            "TotalArea": 12406,
+            "LandArea": 9707,
+            "WaterArea": 2699,
+            "Density": "626.6731",
+            "Pop": 6083116
+        },
+        {
+            "State": "Hawaii",
+            "TotalArea": 10932,
+            "LandArea": 6423,
+            "WaterArea": 4509,
+            "Density": "219.9419",
+            "Pop": 1412687
+        },
+        {
+            "State": "Massachusetts",
+            "TotalArea": 10554,
+            "LandArea": 7800,
+            "WaterArea": 2754,
+            "Density": "894.4355",
+            "Pop": 6976597
+        },
+        {
+            "State": "Vermont",
+            "TotalArea": 9616,
+            "LandArea": 9217,
+            "WaterArea": 400,
+            "Density": "68.1416",
+            "Pop": 628061
+        },
+        {
+            "State": "New Hampshire",
+            "TotalArea": 9349,
+            "LandArea": 8953,
+            "WaterArea": 397,
+            "Density": "153.1605",
+            "Pop": 1371246
+        },
+        {
+            "State": "New Jersey",
+            "TotalArea": 8723,
+            "LandArea": 7354,
+            "WaterArea": 1368,
+            "Density": "1215.1991",
+            "Pop": 8936574
+        },
+        {
+            "State": "Connecticut",
+            "TotalArea": 5543,
+            "LandArea": 4842,
+            "WaterArea": 701,
+            "Density": "735.8689",
+            "Pop": 3563077
+        },
+        {
+            "State": "Delaware",
+            "TotalArea": 2489,
+            "LandArea": 1949,
+            "WaterArea": 540,
+            "Density": "504.3073",
+            "Pop": 982895
+        },
+        {
+            "State": "Rhode Island",
+            "TotalArea": 1545,
+            "LandArea": 1034,
+            "WaterArea": 511,
+            "Density": "1021.4323",
+            "Pop": 1056161
+        },
+        {
+            "State": "District of Columbia",
+            "TotalArea": 68,
+            "LandArea": 61,
+            "WaterArea": 7,
+            "Density": "11814.5410",
+            "Pop": 720687
+        }
+    ]
+}

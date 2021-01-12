@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Bellybutton Biodiversity</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>EIA Dashboard</h1>
+        <p>Use the interactive charts below to explore the dataset</p>
+        <p><a href="/api/v1.0">Available APIs</a></p>
+      </div>
+    </div>
+
+    <div class="row">
+      <h2>US National Overview of Energy Sources</h2>
+      <select id="selTotalEnergy" onchange="getTotalEnergyData(this.value)">
+        <option value="production">Production</option>
+        <option value="consumption">Consumption</option>
+      </select>
+      <div id="totalUSplot"></div>
+      <div class="row">
+        <select id="selTotalEnergyYear" onchange="getTotalEnergyData(this.value)"></select>
+        <div id="totalUSpie"></div>
+      </div>
+    </div>
+
+    <div class="row">
+      <h3>State Energy</h3>
+      <select id="selStateEnergy" onchange="buildStateEnergyPlot(this.value)">
+
+      </select>
+      <div id="totalStateplot"></div>
+    </div>
+
+    <div class="row">
+      <h3>Petroleum Product Prices</h3>
+      <select id="selPetroleumPrices" onchange="buildPetroleumPricesPlot(this.value)">
+
+      </select>
+      <div id="petroleumPlot"></div>
+    </div>
+
+    <div class="row">
+      <h3>Electric Energy Prices</h3>
+      <select id="selElectricPrices" onchange="buildElectricPricesPlot(this.value)">
+
+      </select>
+      <div id="Electricplot"></div>
+    </div>
+
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="static/js/plots.js"></script>
+
+</body>
+
+</html>

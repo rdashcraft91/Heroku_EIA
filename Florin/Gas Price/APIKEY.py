@@ -1,0 +1,2 @@
+# EIA API Key
+eia_api = "b005c4b668134a9611553cb3169e4037"
