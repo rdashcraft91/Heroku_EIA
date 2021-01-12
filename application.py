@@ -7,6 +7,7 @@ import pymongo
 client = pymongo.MongoClient("mongodb+srv://all_user:eiaproject@cluster0-qoy1h.mongodb.net/eia_db?retryWrites=true&w=majority")
 
 
+
 #################################################
 # Database Setup
 #################################################
