@@ -1,6 +1,6 @@
 # United State Energy Information Administration Dashboard
 
-Link to Dashboard: http://eiadashboard-env.eba-hupry3ai.us-east-1.elasticbeanstalk.com/
+Link to Dashboard: https://tinyurl.com/y9o8oxfg
 
 ## Team Members:
 
